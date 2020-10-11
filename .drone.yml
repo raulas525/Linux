@@ -9,6 +9,6 @@ platform:
  
  
 step:
-- name: view all 
+- name: view  
   commands:
   - k scale --replicas=2 deployment/wildfly-deployment
