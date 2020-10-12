@@ -1,7 +1,7 @@
 ---
 kind: pipeline
 type: exec
-name: scale pipeline
+name: scale
 
 platform:
   os: linux
